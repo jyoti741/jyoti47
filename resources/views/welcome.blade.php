@@ -114,7 +114,7 @@
 
                 <!-- Subtitle -->
                 <p class="text-lg sm:text-xl text-slate-600 dark:text-slate-300 max-w-2xl font-normal leading-relaxed">
-                    Engineering graduate specializing in Electronics & Communication Engineering (ECE). Experienced in developing high-performance web applications with <strong>Laravel 13</strong>, <strong>Livewire 4</strong>, <strong>Tailwind CSS v4</strong>, <strong>MySQL</strong>, and embedded IoT communication systems.
+                    Engineering graduate skilled in Electronics & Communication Engineering (ECE). Experienced in developing high-performance web applications with <strong>Laravel 13</strong>, <strong>Livewire 4</strong>, <strong>Tailwind CSS v4</strong>, <strong>MySQL</strong>, and embedded IoT communication systems.
                 </p>
 
                 <!-- Action Buttons -->
